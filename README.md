@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Darren 👋
+
+🎓 Computer Engineering student  
+📍 Toronto, Canada  
+💻 Interested in software, hardware, and building things that actually work  
 
 <!--
 **darrenbrazas/darrenbrazas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
