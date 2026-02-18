@@ -1,11 +1,11 @@
-# Hi, I'm Darren 👋
+# Hi, I'm Darren 
 
 🎓 Computer Engineering student  
 📍 Toronto, Canada  
 💻 Interested in software, hardware, and building things that actually work  
 
 ## 🚀 About Me
-I'm a third-year Computer Engineering student exploring the intersection of **software, hardware, and problem-solving**.  
+I'm a third year Computer Engineering student exploring the intersection of **software, hardware, and problem-solving**.  
 Currently focused on strengthening my fundamentals, building small projects, and learning by doing.
 
 I’m especially interested in:
