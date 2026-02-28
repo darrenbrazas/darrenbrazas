@@ -16,6 +16,8 @@ I’m especially interested in:
 
 ## 🛠 Tech Stack  
 
+<h2>🧰 Skill Set</h2>
+
 <table>
   <tr>
     <td valign="top" width="33%">
