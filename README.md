@@ -24,4 +24,15 @@ I’m especially interested in:
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/> </p> <sub> ARM Cortex-M4 • FPGA (Altera) • SPI • I2C • PWM • ADC Finite State Machines • Digital Logic • Real-Time Systems • DSP / MFCC </sub>
 
+# 🌐 Web & Backend
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30"/> </p>
+
+☁️ Cloud & Tools
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/> </p>
+
+<sub>Quartus • CodeWarrior • JUnit • JavaFX • NumPy • pandas • Matplotlib</sub>
 ![Profile Views](https://komarev.com/ghpvc/?username=darrenbrazas&color=blue)
+
+
