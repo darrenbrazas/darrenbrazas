@@ -14,8 +14,14 @@ I’m especially interested in:
 - Signal processing and low level concepts
 - Turning theory into practical implementations
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
+
+# 💻 Languages
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="45"/> </p>
+
+# 🔧 Hardware/Embedded
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/> </p> <sub> ARM Cortex-M4 • FPGA (Altera) • SPI • I2C • PWM • ADC Finite State Machines • Digital Logic • Real-Time Systems • DSP / MFCC </sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darrenbrazas&color=blue)
