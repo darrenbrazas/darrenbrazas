@@ -37,7 +37,7 @@ I’m especially interested in:
 
 ### ☁️ Cloud & Tools
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/> <img src="assets/quartus.svg" height="45" /></p>
 
 <sub>Quartus • CodeWarrior • JUnit • JavaFX • NumPy • pandas • Matplotlib</sub>
 ![Profile Views](https://komarev.com/ghpvc/?username=darrenbrazas&color=blue)
