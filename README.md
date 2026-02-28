@@ -12,7 +12,7 @@ I’m especially interested in:
 
 - Low-level programming & system-level thinking
 
-- Edge AI, Edge Computing & IoT systems
+- **Edge AI, Edge Computing & IoT systems**
 
 - Digital logic & computer architecture
 
