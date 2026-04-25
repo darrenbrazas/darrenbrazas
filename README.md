@@ -51,7 +51,7 @@ I’m especially interested in:
 
 ### ⚙️ Hardware & Digital Systems
 
-#### 🖥️ [32-Bit CPU in VHDL](https://github.com/darrenbrazas/YOUR-REPO-LINK)
+#### 🖥️ [32-Bit CPU in VHDL]([https://github.com/darrenbrazas/YOUR-REPO-LINK](https://github.com/darrenbrazas/32-Bit-CPU))
 > VHDL · Quartus · Altera Cyclone IV · FSM · Digital Logic · ModelSim
 
 A 32-bit accumulator-style CPU synthesized on an Altera Cyclone IV FPGA. Features a 3-stage fetch–increment–execute cycle driven by a Moore FSM, a custom ISA, full datapath with ALU, ripple-carry adder hierarchy, 256×32-bit data memory, and a power-on reset sequencer. Verified through ModelSim simulations.
