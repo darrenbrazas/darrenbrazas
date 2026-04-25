@@ -51,14 +51,14 @@ I’m especially interested in:
 
 ### ⚙️ Hardware & Digital Systems
 
-#### 🖥️ [32-Bit CPU in VHDL]([https://github.com/darrenbrazas/YOUR-REPO-LINK](https://github.com/darrenbrazas/32-Bit-CPU))
+#### 🖥️ [32-Bit CPU in VHDL](https://github.com/darrenbrazas/32-Bit-CPU.git)
 > VHDL · Quartus · Altera Cyclone IV · FSM · Digital Logic · ModelSim
 
 A 32-bit accumulator-style CPU synthesized on an Altera Cyclone IV FPGA. Features a 3-stage fetch–increment–execute cycle driven by a Moore FSM, a custom ISA, full datapath with ALU, ripple-carry adder hierarchy, 256×32-bit data memory, and a power-on reset sequencer. Verified through ModelSim simulations.
 
 ---
 
-#### 🔲 [8-Bit FPGA Processor](https://github.com/darrenbrazas/YOUR-REPO-LINK)
+#### 🔲 [8-Bit FPGA Processor](https://github.com/darrenbrazas/CPU-Unit.git)
 > VHDL · Quartus · Altera DE1-115 · FSM · Digital Logic
 
 Designed an 8-bit ALU and opcode decoder in VHDL with an FSM-driven instruction cycle on an Altera FPGA. Verified hardware logic through Quartus timing simulations and 7-segment display output.
@@ -67,7 +67,7 @@ Designed an 8-bit ALU and opcode decoder in VHDL with an FSM-driven instruction 
 
 ### 🤖 Embedded & Real-Time Systems
 
-#### 🔊 [TinyML Audio Alert System](https://github.com/darrenbrazas/YOUR-REPO-LINK)
+#### 🔊 [TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert.git)
 > C++ · ARM Cortex-M4 · EdgeImpulse · DSP · MFCC · TinyML
 
 Real-time audio classifier deployed on an ARM Cortex-M4. Built an MFCC-based DSP pipeline for feature extraction, applied fixed-point quantization for on-device inference, and achieved 97% accuracy in high-noise environments with no cloud dependency.
@@ -81,7 +81,7 @@ Autonomous navigation system written in Assembly with an FSM-based motion contro
 
 ---
 
-#### 🔐 [RFID Door Lock](https://github.com/darrenbrazas/YOUR-REPO-LINK)
+#### 🔐 [RFID Door Lock](https://github.com/darrenbrazas/RFID-LOCK.git)
 > C++ · SPI · Embedded Systems · Serial Debugging
 
 Access control system using SPI to interface with an RFID module and actuate a servo-based lock. Implemented UID validation logic and serial debugging to monitor authentication timing in real time.
@@ -90,14 +90,14 @@ Access control system using SPI to interface with an RFID module and actuate a s
 
 ### 🌐 Software & Web
 
-#### 🎵 [Album Review Web App](https://github.com/darrenbrazas/YOUR-REPO-LINK)
+#### 🎵 [Album Review Web App](https://github.com/darrenbrazas/music-review-platform.git)
 > Node.js · Express.js · PostgreSQL · REST API · JavaScript
 
 Full-stack music review platform with RESTful APIs for albums, artists, ratings, and discussions. Features async frontend interactions, input validation, CORS handling, and clean error management.
 
 ---
 
-#### 📚 [Bookstore Application](https://github.com/darrenbrazas/YOUR-REPO-LINK)
+#### 📚 [Bookstore Application](https://github.com/darrenbrazas/Bookstore-Application.git)
 > Java · JavaFX · OOP · Design Patterns
 
 Desktop bookstore app built in Java with a JavaFX UI. Applied OOP principles including inheritance, abstraction, and interfaces, and implemented the Singleton and State design patterns to manage application logic and customer membership tiers. Features role-based authentication and persistent file I/O storage.
