@@ -9,9 +9,9 @@
 💻 Passionate about software, hardware, and everything in between
 
 ## 🚀 About Me
-I'm a third year Computer Engineering student who loves building things — whether that's a **full-stack web app**, a **backend system**, or a **CPU from scratch in VHDL**.
+I'm a fourth year Computer Engineering student who loves building things. Whether that's a **full-stack web app**, a **backend system**, or a **CPU from scratch in VHDL**.
 
-I enjoy working at every level of the stack. On the software side I'm drawn to building real applications people actually use — clean backends, responsive frontends, and well-designed systems. On the hardware side I love getting close to the metal — embedded systems, FPGAs, and low-level architecture.
+I enjoy working at every level of the stack. On the software side I'm drawn to building real applications people actually use — clean backends, responsive frontends, and well-designed systems. On the hardware side I love embedded systems, FPGAs, and low-level architecture.
 
 I'm especially interested in:
 
