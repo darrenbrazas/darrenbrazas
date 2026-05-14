@@ -68,6 +68,8 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
 
 ## 📁 Projects
 
+### 🔧 Hardware & Embedded
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -128,14 +130,13 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
       <img src="https://img.shields.io/badge/I2C-555555?style=flat&logoColor=white" />
       <img src="https://img.shields.io/badge/ADC-555555?style=flat&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/darrenbrazas/plant-monitoring-dashboard">📊 Plant Monitoring Dashboard</a></h3>
-      <p>Web-based IoT dashboard that visualizes live plant sensor data from the Plant Monitor system. Displays real-time charts and status indicators in a clean browser interface, bridging embedded hardware with a web frontend.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
+</table>
+
+### 💻 Software & Web
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darrenbrazas/Rail-Dashboard">🚆 Rail Dashboard</a></h3>
@@ -147,6 +148,15 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/darrenbrazas/plant-monitoring-dashboard">📊 Plant Monitoring Dashboard</a></h3>
+      <p>Web-based IoT dashboard that visualizes live plant sensor data from the Plant Monitor system. Displays real-time charts and status indicators in a clean browser interface, bridging embedded hardware with a web frontend.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/darrenbrazas/music-review-platform">🎵 Album Review Web App</a></h3>
       <p>Full-stack web application for discovering and reviewing music albums. Built with a JavaScript and HTML/CSS frontend and a Node.js/Express backend, with plans for React and PostgreSQL integration.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -154,20 +164,21 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darrenbrazas/Bookstore-Application">📚 Bookstore Application</a></h3>
       <p>Full-stack bookstore management application built in Java. Supports browsing, searching, and managing inventory with a clean backend architecture and persistent data storage.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darrenbrazas/darrenbrazas.github.io">🌐 Personal Website</a></h3>
       <p>My personal portfolio site showcasing projects and skills, built from scratch with vanilla HTML and CSS — no frameworks, just clean and fast.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
