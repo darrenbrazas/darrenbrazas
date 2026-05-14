@@ -73,6 +73,16 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
 <td valign="top" width="50%">
 
 **🔧 Hardware & Embedded**
+<hr>
+
+**[🔬 RISC-V Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator)**<br><br>
+Cycle-accurate RISC-V RV32I simulator with 5-stage pipeline, hazard detection, data forwarding, and CPI/IPC tracking.<br><br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logoColor=white)
+<hr>
+
+**[🎙️ TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert)**<br><br>
+On-device audio classification on ARM Cortex-M4 using MFCC + quantized neural net — no cloud needed.<br><br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TFLite](https://img.shields.io/badge/TF_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-000000?style=flat-square)
 
 <hr>
 
@@ -85,18 +95,6 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
 **[⚙️ CPU Unit](https://github.com/darrenbrazas/CPU-Unit)**<br><br>
 8-bit FPGA processor built from scratch with FSM control unit and full datapath.<br><br>
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logoColor=white)
-
-<hr>
-
-**[🔬 RISC-V Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator)**<br><br>
-Cycle-accurate RISC-V RV32I simulator with 5-stage pipeline, hazard detection, data forwarding, and CPI/IPC tracking.<br><br>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logoColor=white)
-
-<hr>
-
-**[🎙️ TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert)**<br><br>
-On-device audio classification on ARM Cortex-M4 using MFCC + quantized neural net — no cloud needed.<br><br>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TFLite](https://img.shields.io/badge/TF_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-000000?style=flat-square)
 
 <hr>
 
@@ -123,6 +121,12 @@ Embedded system reading soil moisture, temperature, and humidity sensors with re
 
 <hr>
 
+**[🎵 Album Review Web App](https://github.com/darrenbrazas/music-review-platform)**<br><br>
+Full-stack app for discovering and reviewing music albums with a Node.js/Express backend.<br><br>
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+<hr>
+
 **[🚆 Rail Dashboard](https://github.com/darrenbrazas/Rail-Dashboard)**<br><br>
 Rail lifecycle management system — JS dashboard, Python backend, SQLite, C++ physics simulator, Jira integration, and CI/CD.<br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -132,12 +136,6 @@ Rail lifecycle management system — JS dashboard, Python backend, SQLite, C++ p
 **[📊 Plant Monitoring Dashboard](https://github.com/darrenbrazas/plant-monitoring-dashboard)**<br><br>
 IoT web dashboard displaying live plant sensor data with real-time charts and status indicators.<br><br>
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<hr>
-
-**[🎵 Album Review Web App](https://github.com/darrenbrazas/music-review-platform)**<br><br>
-Full-stack app for discovering and reviewing music albums with a Node.js/Express backend.<br><br>
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 <hr>
 
