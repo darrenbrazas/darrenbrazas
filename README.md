@@ -87,7 +87,7 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/darrenbrazas/microarchitecture-simulator">🔬 Microarchitecture Simulator</a></h3>
+      <h3><a href="https://github.com/darrenbrazas/microarchitecture-simulator">🔬 RISC-V Microarchitecture Simulator</a></h3>
       <p>Cycle-accurate RISC-V RV32I CPU simulator in C++ progressing from single-cycle to a full 5-stage pipeline. Implements hazard detection with stall insertion, EX→EX and MEM→EX data forwarding, and branch flushing. Tracks detailed performance metrics including CPI, IPC, stall counts, and flush events across benchmark programs.</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/RISC--V-283272?style=flat&logoColor=white" />
