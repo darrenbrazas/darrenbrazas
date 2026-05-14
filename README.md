@@ -1,24 +1,26 @@
 <h1 align="center">Hi, I'm Darren 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Hardware+%2B+Software+Builder;Edge+AI+%7C+Embedded+Systems+%7C+FPGA;Building+things+that+actually+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full-Stack+%26+Embedded+Developer;Edge+AI+%7C+IoT+%7C+Web+Apps;Building+things+that+actually+work" alt="Typing SVG" />
 </p>
 
 🎓 Computer Engineering student  
 📍 Toronto, Canada  
-💻 Interested in software, hardware, and building things that actually work
+💻 Passionate about software, hardware, and everything in between
 
 ## 🚀 About Me
-I'm a third year Computer Engineering student exploring the intersection of **software, hardware, and problem-solving**.  
-Currently focused on strengthening my fundamentals, building small projects, and learning by doing.
+I'm a third year Computer Engineering student who loves building things — whether that's a **full-stack web app**, a **backend system**, or a **CPU from scratch in VHDL**.
+
+I enjoy working at every level of the stack. On the software side I'm drawn to building real applications people actually use — clean backends, responsive frontends, and well-designed systems. On the hardware side I love getting close to the metal — embedded systems, FPGAs, and low-level architecture.
 
 I'm especially interested in:
 
-- Low-level programming & system-level thinking
+- Full-stack & backend software development
+- Building clean, functional web applications
 - **Edge AI, Edge Computing & IoT systems**
-- Digital logic & computer architecture
-- Signal processing & TinyML
-- Turning theory into practical implementations
+- Low-level programming & computer architecture
+- Digital logic, signal processing & TinyML
+- Turning theory into things that actually run
 
 ## 🛠 Tech Stack
 
@@ -69,12 +71,17 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
 | Project | Tech | Description |
 |---------|------|-------------|
 | [32-Bit CPU](https://github.com/darrenbrazas/32-Bit-CPU) | VHDL | Full 32-bit CPU designed and simulated on FPGA |
+| [CPU Unit](https://github.com/darrenbrazas/CPU-Unit) | VHDL | 8-bit FPGA processor implementation |
 | [Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator) | C++ | Simulates CPU pipeline stages and microarchitecture behavior |
 | [TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert) | C++, Edge Impulse | On-device audio classification running on a microcontroller |
 | [Autonomous Maze-Solving Robot](https://github.com/darrenbrazas/Autonomous-Maze-Solving-Robot) | Assembly | Self-navigating robot written entirely in assembly |
 | [RFID Door Lock](https://github.com/darrenbrazas/RFID-LOCK) | C++, Arduino | RFID-based access control system |
+| [Plant Monitor](https://github.com/darrenbrazas/PLANT-MONITOR) | C++ | Embedded sensor system for real-time plant health tracking |
+| [Plant Monitoring Dashboard](https://github.com/darrenbrazas/plant-monitoring-dashboard) | JavaScript | IoT web dashboard for plant monitoring data |
+| [Rail Dashboard](https://github.com/darrenbrazas/Rail-Dashboard) | Python | Real-time rail data visualization tool |
 | [Album Review Web App](https://github.com/darrenbrazas/music-review-platform) | JavaScript, Node.js | Full-stack music review web app |
 | [Bookstore Application](https://github.com/darrenbrazas/Bookstore-Application) | Java | Full-stack bookstore management application |
+| [Personal Website](https://github.com/darrenbrazas/darrenbrazas.github.io) | HTML, CSS | My personal portfolio site |
 
 ---
 
