@@ -1,108 +1,88 @@
-# Hi, I'm Darren 
+<h1 align="center">Hey, I'm Darren 👋</h1>
 
-🎓 Computer Engineering student  
-📍 Toronto, Canada  
-💻 Interested in software, hardware, and building things that actually work  
-
-## 🚀 About Me
-I'm a third year Computer Engineering student exploring the intersection of **software, hardware, and problem-solving**.  
-Currently focused on strengthening my fundamentals, building small projects, and learning by doing.
-
-I’m especially interested in:
-
-- Low-level programming & system-level thinking
-
-- **Edge AI, Edge Computing & IoT systems**
-
-- Digital logic & computer architecture
-
-- Signal processing & TinyML
-
-- Turning theory into practical implementations
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/> <img src="assets/vhdl.svg" height="45" /> <img src="assets/systemverilog.svg" height="45" /> </p>
-
-### 🔧 Hardware/Embedded
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-
-  <!-- Edge Impulse -->
-  <img src="assets/edge-impulse.svg" height="45" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Hardware+%2B+Software+Builder;Edge+AI+%7C+Embedded+Systems+%7C+FPGA;Building+things+that+actually+work" alt="Typing SVG" />
 </p>
-<sub> ARM Cortex-M4 • FPGA (Altera) • SPI • I2C • PWM • ADC Finite State Machines • Digital Logic • Real-Time Systems • DSP / MFCC </sub>
 
-### 🌐 Web & Backend
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30"/> </p>
-
-### ☁️ Cloud & Tools
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/> <img src="assets/quartus.svg" height="45" /> <img src="assets/matlab.svg" height="45" /></p>
-
-<sub>Quartus • CodeWarrior • JUnit • JavaFX • NumPy • pandas • Matplotlib</sub>
-
-## 📁 Projects
-
-### ⚙️ Hardware & Digital Systems
-
-#### 🖥️ [32-Bit CPU in VHDL](https://github.com/darrenbrazas/32-Bit-CPU.git)
-> VHDL · Quartus · Altera Cyclone IV · FSM · Digital Logic · ModelSim
-
-A 32-bit accumulator-style CPU synthesized on an Altera Cyclone IV FPGA. Features a 3-stage fetch–increment–execute cycle driven by a Moore FSM, a custom ISA, full datapath with ALU, ripple-carry adder hierarchy, 256×32-bit data memory, and a power-on reset sequencer. Verified through ModelSim simulations.
+<p align="center">
+  🎓 3rd Year Computer Engineering &nbsp;·&nbsp; 📍 Toronto &nbsp;·&nbsp; ⚡ Hardware meets Software
+</p>
 
 ---
 
-#### 🔲 [8-Bit FPGA Processor](https://github.com/darrenbrazas/CPU-Unit.git)
-> VHDL · Quartus · Altera DE1-115 · FSM · Digital Logic
+## 🧠 About Me
 
-Designed an 8-bit ALU and opcode decoder in VHDL with an FSM-driven instruction cycle on an Altera FPGA. Verified hardware logic through Quartus timing simulations and 7-segment display output.
+I work across the full stack — from **VHDL on FPGAs** to **TinyML on microcontrollers** to **full-stack web apps**.  
+I like building things end-to-end and understanding how they actually work under the hood.
 
----
-
-### 🤖 Embedded & Real-Time Systems
-
-#### 🔊 [TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert.git)
-> C++ · ARM Cortex-M4 · EdgeImpulse · DSP · MFCC · TinyML
-
-Real-time audio classifier deployed on an ARM Cortex-M4. Built an MFCC-based DSP pipeline for feature extraction, applied fixed-point quantization for on-device inference, and achieved 97% accuracy in high-noise environments with no cloud dependency.
+- 🔬 Deep interest in **Edge AI, IoT, and Computer Architecture**
+- ⚙️ Comfortable going from circuit to code
+- 📡 Always connecting low-level theory to real implementations
 
 ---
 
-#### 🌀 [Automated Maze-Solving Robot](https://github.com/darrenbrazas/YOUR-REPO-LINK)
-> Assembly · HCS12 · ADC · PWM · FSM · Real-Time Control
+## 🛠️ Tech Stack
 
-Autonomous navigation system written in Assembly with an FSM-based motion controller. Interfaced 5 analog sensors via ADC register manipulation and drove motors via PWM for real-time obstacle avoidance and path correction.
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logoColor=white)
+
+**Hardware & Embedded**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=flat&logo=arm&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA_(Altera)-0071C5?style=flat&logoColor=white)
+![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-000000?style=flat&logoColor=white)
+
+**Web & Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white)
 
 ---
 
-#### 🔐 [RFID Door Lock](https://github.com/darrenbrazas/RFID-LOCK.git)
-> C++ · SPI · Embedded Systems · Serial Debugging
+## 📊 GitHub Stats
 
-Access control system using SPI to interface with an RFID module and actuate a servo-based lock. Implemented UID validation logic and serial debugging to monitor authentication timing in real time.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darrenbrazas&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenbrazas&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
----
-
-### 🌐 Software & Web
-
-#### 🎵 [Album Review Web App](https://github.com/darrenbrazas/music-review-platform.git)
-> Node.js · Express.js · PostgreSQL · REST API · JavaScript
-
-Full-stack music review platform with RESTful APIs for albums, artists, ratings, and discussions. Features async frontend interactions, input validation, CORS handling, and clean error management.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=darrenbrazas&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-#### 📚 [Bookstore Application](https://github.com/darrenbrazas/Bookstore-Application.git)
-> Java · JavaFX · OOP · Design Patterns
+## 🚀 Projects
 
-Desktop bookstore app built in Java with a JavaFX UI. Applied OOP principles including inheritance, abstraction, and interfaces, and implemented the Singleton and State design patterns to manage application logic and customer membership tiers. Features role-based authentication and persistent file I/O storage.
+| Project | Tech | What it does |
+|---------|------|--------------|
+| [32-Bit CPU](https://github.com/darrenbrazas/32-Bit-CPU) | VHDL | Full 32-bit CPU designed and simulated on FPGA |
+| [Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator) | C++ | Simulates CPU pipeline stages and microarchitecture behavior |
+| [TinyML Audio Alert](https://github.com/darrenbrazas/tinyml-audio-alert) | C++, Edge Impulse | On-device audio classification running on a microcontroller |
+| [Autonomous Maze Robot](https://github.com/darrenbrazas/Autonomous-Maze-Solving-Robot) | Assembly | Self-navigating robot written entirely in assembly |
+| [RFID Door Lock](https://github.com/darrenbrazas/RFID-LOCK) | C++, Arduino | RFID-based access control system |
+| [Plant Monitor](https://github.com/darrenbrazas/PLANT-MONITOR) | C++ | Embedded sensor system for real-time plant health tracking |
+| [Plant Dashboard](https://github.com/darrenbrazas/plant-monitoring-dashboard) | JavaScript | IoT web dashboard for plant monitoring data |
+| [Music Review Platform](https://github.com/darrenbrazas/music-review-platform) | JavaScript, Node.js | Full-stack album review web app |
+| [Rail Dashboard](https://github.com/darrenbrazas/Rail-Dashboard) | Python | Real-time rail data visualization tool |
+| [Bookstore App](https://github.com/darrenbrazas/Bookstore-Application) | Java | Full-stack bookstore management application |
 
-![Profile Views](https://komarev.com/ghpvc/?username=darrenbrazas&color=blue)
+---
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darrenbrazas&color=58a6ff&style=flat" alt="Profile Views" />
+</p>
