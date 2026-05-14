@@ -76,43 +76,43 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
 
 <hr>
 
-**[🖥️ 32-Bit CPU](https://github.com/darrenbrazas/32-Bit-CPU)**<br>
+**[🖥️ 32-Bit CPU](https://github.com/darrenbrazas/32-Bit-CPU)**<br><br>
 32-bit CPU in VHDL with ALU, register file, and control unit, synthesized on Altera FPGA.<br>
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logoColor=white)
 
 <hr>
 
-**[⚙️ CPU Unit](https://github.com/darrenbrazas/CPU-Unit)**<br>
+**[⚙️ CPU Unit](https://github.com/darrenbrazas/CPU-Unit)**<br><br>
 8-bit FPGA processor built from scratch with FSM control unit and full datapath.<br>
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logoColor=white)
 
 <hr>
 
-**[🔬 RISC-V Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator)**<br>
+**[🔬 RISC-V Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator)**<br><br>
 Cycle-accurate RISC-V RV32I simulator with 5-stage pipeline, hazard detection, data forwarding, and CPI/IPC tracking.<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logoColor=white)
 
 <hr>
 
-**[🎙️ TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert)**<br>
+**[🎙️ TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert)**<br><br>
 On-device audio classification on ARM Cortex-M4 using MFCC + quantized neural net — no cloud needed.<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TFLite](https://img.shields.io/badge/TF_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-000000?style=flat-square)
 
 <hr>
 
-**[🤖 Autonomous Maze-Solving Robot](https://github.com/darrenbrazas/Autonomous-Maze-Solving-Robot)**<br>
+**[🤖 Autonomous Maze-Solving Robot](https://github.com/darrenbrazas/Autonomous-Maze-Solving-Robot)**<br><br>
 Self-navigating robot written entirely in ARM Assembly with IR/ultrasonic sensors and FSM logic.<br>
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white) ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
 
 <hr>
 
-**[🔐 RFID Door Lock](https://github.com/darrenbrazas/RFID-LOCK)**<br>
+**[🔐 RFID Door Lock](https://github.com/darrenbrazas/RFID-LOCK)**<br><br>
 Arduino access control system using RC522 RFID — authenticates cards and drives a relay lock.<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 <hr>
 
-**[🌿 Plant Monitor](https://github.com/darrenbrazas/PLANT-MONITOR)**<br>
+**[🌿 Plant Monitor](https://github.com/darrenbrazas/PLANT-MONITOR)**<br><br>
 Embedded system reading soil moisture, temperature, and humidity sensors with real-time threshold alerts.<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
@@ -123,31 +123,31 @@ Embedded system reading soil moisture, temperature, and humidity sensors with re
 
 <hr>
 
-**[🚆 Rail Dashboard](https://github.com/darrenbrazas/Rail-Dashboard)**<br>
+**[🚆 Rail Dashboard](https://github.com/darrenbrazas/Rail-Dashboard)**<br><br>
 Rail lifecycle management system — JS dashboard, Python backend, SQLite, C++ physics simulator, Jira integration, and CI/CD.<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 <hr>
 
-**[📊 Plant Monitoring Dashboard](https://github.com/darrenbrazas/plant-monitoring-dashboard)**<br>
+**[📊 Plant Monitoring Dashboard](https://github.com/darrenbrazas/plant-monitoring-dashboard)**<br><br>
 IoT web dashboard displaying live plant sensor data with real-time charts and status indicators.<br>
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <hr>
 
-**[🎵 Album Review Web App](https://github.com/darrenbrazas/music-review-platform)**<br>
+**[🎵 Album Review Web App](https://github.com/darrenbrazas/music-review-platform)**<br><br>
 Full-stack app for discovering and reviewing music albums with a Node.js/Express backend.<br>
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 <hr>
 
-**[📚 Bookstore Application](https://github.com/darrenbrazas/Bookstore-Application)**<br>
+**[📚 Bookstore Application](https://github.com/darrenbrazas/Bookstore-Application)**<br><br>
 Full-stack bookstore app in Java with browsing, search, and inventory management over PostgreSQL.<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <hr>
 
-**[🌐 Personal Website](https://github.com/darrenbrazas/darrenbrazas.github.io)**<br>
+**[🌐 Personal Website](https://github.com/darrenbrazas/darrenbrazas.github.io)**<br><br>
 Portfolio site built from scratch with vanilla HTML and CSS — no frameworks.<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
