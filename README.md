@@ -79,6 +79,13 @@ SPI • I2C • PWM • ADC • Finite State Machines • Digital Logic • Real
 **[🔬 RISC-V Microarchitecture Simulator](https://github.com/darrenbrazas/microarchitecture-simulator)**<br><br>
 Cycle-accurate RISC-V RV32I simulator with 5-stage pipeline, hazard detection, data forwarding, and CPI/IPC tracking.<br><br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logoColor=white)
+
+<hr>
+
+**[🔷 Avalon Ethernet Frame Filter IP](https://github.com/darrenbrazas/avalon-ethernet-filter)**<br><br>
+Configurable Ethernet frame filter IP for Altera Cyclone V — IEEE 802.3 header parsing, CRC32 validation, 16-entry CAM MAC filter, and Avalon-ST/MM interfaces at 125 MHz. Includes a full SystemVerilog verification environment with DPI-C C++ golden model, constrained-random testbench, and TCL-automated Quartus build flow.<br><br>
+![Verilog](https://img.shields.io/badge/Verilog-orange?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=flat-square) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logoColor=white)
+
 <hr>
 
 **[🎙️ TinyML Audio Alert System](https://github.com/darrenbrazas/tinyml-audio-alert)**<br><br>
