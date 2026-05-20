@@ -131,7 +131,7 @@ Embedded system reading soil moisture, temperature, and humidity sensors with re
 
 **[🎵 Album Review Web App](https://github.com/darrenbrazas/music-review-platform)**<br><br>
 Full-stack app for discovering and reviewing music albums with a Node.js/Express backend.<br><br>
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <hr>
 
@@ -149,7 +149,7 @@ IoT web dashboard displaying live plant sensor data with real-time charts and st
 
 **[📚 Bookstore Application](https://github.com/darrenbrazas/Bookstore-Application)**<br><br>
 Full-stack bookstore app in Java with browsing, search, and inventory management over PostgreSQL.<br><br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
 
 <hr>
 
